@@ -1,0 +1,29 @@
+     /* --------heading start----------- */
+     .header {
+         background-color: rgba(229, 84, 115, 0.10);
+         display: flex;
+         justify-content: center;
+         align-items: center;
+     }
+
+     .greeting {
+         width: 50%;
+         padding: 80px;
+         font-size: 15px;
+     }
+
+     #pic {
+         width: 40%;
+         padding: 60px 60px 0px 60px;
+     }
+
+     .button {
+         background-color: #E55473;
+         color: #FFFF;
+         border-radius: 8px;
+         border: 0px;
+         width: 110px;
+         height: 35px;
+     }
+
+     /*---------------- heading end ----------------*/
