@@ -103,9 +103,18 @@
 
 /*==================== cupon style start ============*/
 .cupon-container {
+    /* margin-top: 50px;
+    text-align: center;
+    background-image: url(Rectangle\ 9.png); */
+    /* background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 70%;
+    margin-left: 200px;
+    padding-bottom: 50px; */
     margin-top: 50px;
     text-align: center;
-    background-image: url(/Rectangle\ 6.png);
+    background-image: url(/Rectangle\ 9.png);
     background-position: center;
     background-size: cover;
     height: 250px;
